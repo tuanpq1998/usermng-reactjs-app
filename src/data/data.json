@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "name" : "Tuan",
+        "phone" : "0123456789",
+        "role" : "ADMIN"
+    },
+    {
+        "id" : 2,
+        "name" : "Mai",
+        "phone" : "0123456789",
+        "role" : "USER"
+    },
+    {
+        "id" : 3,
+        "name" : "Minh",
+        "phone" : "0949957398",
+        "role" : "USER"
+    },
+    {
+        "id" : 4,
+        "name" : "Viet",
+        "phone" : "0123456789",
+        "role" : "ADMIN"
+    },
+    {
+        "id" : 5,
+        "name" : "Doge",
+        "phone" : "0123456789",
+        "role" : "ADMIN"
+    },
+    {
+        "id" : 6,
+        "name" : "Thong",
+        "phone" : "0123456789",
+        "role" : "USER"
+    },
+    {
+        "id" : 7,
+        "name" : "Dang",
+        "phone" : "0949957398",
+        "role" : "USER"
+    },
+    {
+        "id" : 8,
+        "name" : "Sky",
+        "phone" : "0123456789",
+        "role" : "ADMIN"
+    }
+]
